@@ -6,7 +6,6 @@ Project 01
 - Stateless components
 - Passing functions as props
 - Two way binding
-- React testing library
 
-Project link: https://expenses-app-react-js.vercel.app/
-Course link: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- Project link: https://expenses-app-react-js.vercel.app/
+- Course link: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
