@@ -1,6 +1,6 @@
-import ExpenseItem from "./components/ExpenseItem";
+import ExpenseItem from "./components/Expenses/ExpenseItem";
 
-function App() {
+const App = () => {
   const expenses = [
     {
       title: "asfc235sd",
@@ -32,7 +32,7 @@ function App() {
           date={item.date}
         />
       ))}
-    </div>
+    </div> 
   );
 }
 
