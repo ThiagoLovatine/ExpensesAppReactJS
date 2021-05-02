@@ -8,4 +8,5 @@ Project 01
 - Two way binding
 - React testing library
 
-https://expenses-app-react-js.vercel.app/
+Project link: https://expenses-app-react-js.vercel.app/
+Course link: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
